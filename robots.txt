@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /TrentsIllegalCrimesList.txt
+Disallow: /content/TrentsIllegalCrimesList.txt
