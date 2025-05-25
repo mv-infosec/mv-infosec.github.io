@@ -4615,3 +4615,14 @@
 	
 	#commentform #submit:hover { background-color: #2f9f8b; }	
    
+	
+.achievement_link {
+	color: white
+	
+}
+.achievement_link:visited {
+	color: white
+}
+.achievement_link:hover {
+	color: white
+}
